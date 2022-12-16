@@ -2,6 +2,7 @@ class Stone:
     EMPTY = 0
     BLACK = 1
     WHITE = 2
+// added value to black white and empty values 
 
 def get_opposite_stone(stone):
     assert(stone != Stone.EMPTY)
