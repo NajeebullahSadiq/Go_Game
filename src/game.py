@@ -231,3 +231,4 @@ class GameUI(object):
         if move == 'pass':
             return move
         return self._parse_coordinates(move)
+#add som functionally to code 
